@@ -1,2 +1,2 @@
-# gban
+# gban-mirai
 hiiiiiiiiiiiii
